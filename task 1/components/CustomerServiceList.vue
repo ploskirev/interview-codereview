@@ -67,7 +67,7 @@
 <script>
 import {mapGetters} from "vuex";
 import mixinCustomServiceForm from "../../mixins/mixinCustomServiceForm";
-import AsanaCreatedList from "../../task 2/components/AsanaCreatedList.vue";
+import AsanaCreatedList from "../../task 3/components/AsanaCreatedList.vue";
 import {customerServicesCategories} from "../../constants/customer-service/config";
 
 export default {
